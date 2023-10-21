@@ -6,4 +6,4 @@ var myname = "Noname";
 var my_name = "Noname";
 var userScoreFinal = 12;
 
-console.log(myName, yourName, myvar, my123, myname, my_name, userScoreFinal)
+console.log(myName, yourName, myvar, my123, myname, my_name, userScoreFinal);
